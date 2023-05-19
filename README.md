@@ -1,4 +1,4 @@
-# Toxic-Spans-Detetection-
+# Toxic-Spans-Detetection
 Toxic Spans Detection using BERT
 
 Toxic Spans Detection using BERT is a Python-based project that utilizes BERT, a powerful transformer-based model, to identify toxic spans within a given text. This project is useful in various applications such as online content moderation and sentiment analysis, where identifying toxic language is crucial.
