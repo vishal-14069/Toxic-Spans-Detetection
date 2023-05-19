@@ -17,9 +17,13 @@ Usage
 ## To use this project, follow these steps:
 
 1.Install the required dependencies mentioned in the requirements.txt file.
+
 2.Preprocess the input text and convert it into tokenized format suitable for BERT input.
+
 3.Fine-tune the BERT model on a labeled dataset of toxic spans.
+
 4.Use the trained model to predict toxic spans in new texts, using the threshold mechanism.
+
 5.Evaluate the performance of the model using various metrics like F1 score, precision, recall, and accuracy.
 
 Refer to the provided code examples and documentation for detailed instructions on each step.
